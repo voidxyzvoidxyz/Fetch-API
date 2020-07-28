@@ -1,2 +1,2 @@
 # Fetch-API
-Fetch the data fromt the given API.
+Fetch the data fromt the given API
