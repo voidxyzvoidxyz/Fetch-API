@@ -1,3 +1,6 @@
+// Api link
+// https://jsonplaceholder.typicode.com/posts
+
 const button1 = document.getElementById('getText')
 const button2 = document.getElementById('getJson')
 const button3 = document.getElementById('getApi')
